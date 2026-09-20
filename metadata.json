@@ -1,0 +1,6 @@
+{
+  "name": "Stock Opname Mobile",
+  "description": "Aplikasi mobile stock opname gudang dengan scan lokasi dan multi-SKU terintegrasi Google Spreadsheet",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
